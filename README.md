@@ -1,4 +1,4 @@
-# LITA_CAPSTONE PROJECT
+# LITA_CAPSTONE PROJECT 2
 ___
 
 ### Project 2 Tittle:Customers Subscription Analysis
