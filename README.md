@@ -1,7 +1,7 @@
-# lITA_CAPSTONE PROJECT
+# LITA_CAPSTONE PROJECT
 ___
 
-### Project 1 Tittle:Sale Performance Analysis For A Retail Shop
+### Project 2 Tittle:Customers Subscription Analysis
 
 ### Project Overview
 ___
@@ -30,7 +30,9 @@ this analysis is to uncover which subscription types and regions have the highes
  - Enhance loyalty programs for regions like the South to retain the high Premium subscriber base.
 
  
-Tools Used
+#### Tools Used
 ___
 
 - Microsoft Excel
+
+  
