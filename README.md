@@ -1,4 +1,4 @@
-# LITA_CAPSTONE PROJECT 2
+[LITA CAPSTONE PROJECT.zip](https://github.com/user-attachments/files/17661027/LITA.CAPSTONE.PROJECT.zip)# LITA_CAPSTONE PROJECT 2
 ___
 
 ### Project 2 Tittle:Customers Subscription Analysis
@@ -49,9 +49,62 @@ ___
 
     <img width="149" alt="Screenshot 2024-11-05 165549" src="https://github.com/user-attachments/assets/21786f31-8583-49f2-80bc-40f2adefb0a4">
 
-    <img width="152" alt="top subscription type" src="https://github.com/user-attachments/assets/55a00f8e-2202-4343-a8de-759b8713b58b">
+    
+
+
+
+  <img width="152" alt="top subscription type" src="https://github.com/user-attachments/assets/55a00f8e-2202-4343-a8de-759b8713b58b">
 
     
+
+
+
+  ___
+
+    #### Structured Querry Language (sql)
+    using Sql on this data can offer similar insights to those found in excel,but sql also allow for more advance querrying ,filtering and joining accross
+    tables if additional datasets are available such as:
+  - retrieve the total sales for each product category.
+  - find the number of sales transactions in each region.
+  -find the highest-selling product by total sales value.
+  - calculate total revenue per product."
+  -calculate monthly sales totals for the current year.
+  - find the top 5 customers by total purchase amount."
+  - calculate the percentage of total sales contributed by each region.
+  - identify products with no sales in the last quarter.
+
+    ___
+
+    #### Power Business Intelligence
+    This was a powerful tool to bring this data analysis to life, making it easy to visuallize trends,
+    customers subscription plan and uncover actionable insights.
+    It also enables us to build a dashboard that visualizes key customer segments,	
+  	cancellations, and subscription trends. Include slicers for interactive analysis.
+
+
+
+
+![IMG_20241105_214054_232](https://github.com/user-attachments/assets/2da3439f-4e2f-4f59-a8fe-b809c20673b8)
+
+
+
+
+
+
+
+
+
+![IMG_20241105_214050_644](https://github.com/user-attachments/assets/e2943161-3056-4d1b-9b31-f6833e686089)
+
+
+
+
+
+
+
+
+![IMG_20241105_214041_585](https://github.com/user-attachments/assets/3f8ac327-c1d9-4e34-8d0a-9ae3e966a5b4)
+
 
 
 
