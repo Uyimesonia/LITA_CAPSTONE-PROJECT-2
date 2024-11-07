@@ -61,17 +61,21 @@ ___
 
   ___
 
-    #### Structured Querry Language (sql)
-    using Sql on this data can offer similar insights to those found in excel,but sql also allow for more advance querrying ,filtering and joining accross
+  #### Structured Querry Language (sql)
+    using Sql on this data can offer similar insights to those found in excel,but sql also allow for more advance querrying,
+    filtering and joining accross
     tables if additional datasets are available such as:
   - retrieve the total sales for each product category.
   - find the number of sales transactions in each region.
   -find the highest-selling product by total sales value.
-  - calculate total revenue per product."
+  - calculate total revenue per product.
   -calculate monthly sales totals for the current year.
-  - find the top 5 customers by total purchase amount."
+  - find the top 5 customers by total purchase amount.
   - calculate the percentage of total sales contributed by each region.
   - identify products with no sales in the last quarter.
+
+
+
 
     ___
 
